@@ -1,0 +1,223 @@
+[
+    {
+        "id": 1,
+        "picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name": "William Davis",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 50,
+        "likes": 5000,
+        "recipes": [
+            {
+                "recipeName": "Chicken Biryani",
+                "ingredients": [
+                    "Chicken",
+                    "Rice",
+                    "Onion",
+                    "Tomato",
+                    "Spices"
+                ],
+                "cookingMethod": "1. Marinate chicken with spices. 2. Cook rice. 3. Fry onions and tomatoes. 4. Layer chicken, rice, and fried onions/tomatoes. 5. Cook in a covered pot until chicken is tender.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Veggie Fried Rice",
+                "ingredients": [
+                    "Rice",
+                    "Mixed Vegetables",
+                    "Soy Sauce",
+                    "Egg",
+                    "Garlic"
+                ],
+                "cookingMethod": "1. Cook rice. 2. Fry mixed vegetables and garlic. 3. Scramble egg. 4. Add soy sauce and mix everything together. 5. Serve hot.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "picture": "https://images.unsplash.com/photo-1617473345933-609b7153daf4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=739&q=80",
+        "name": "Maria Hernandez",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 30,
+        "likes": 4000,
+        "recipes": [
+            {
+                "recipeName": "Beef Tacos",
+                "ingredients": [
+                    "Ground Beef",
+                    "Taco Shells",
+                    "Lettuce",
+                    "Tomato",
+                    "Salsa"
+                ],
+                "cookingMethod": "1. Cook beef. 2. Assemble taco shells with beef, lettuce, tomato, and salsa. 3. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Guacamole",
+                "ingredients": [
+                    "Avocado",
+                    "Lime Juice",
+                    "Onion",
+                    "Tomato",
+                    "Salt"
+                ],
+                "cookingMethod": "1. Mash avocado. 2. Mix in lime juice, onion, tomato, and salt. 3. Serve with chips.",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "picture": "https://images.unsplash.com/photo-1571903244693-227d7733a917?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name": "John Smith",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 75,
+        "likes": 8000,
+        "recipes": [
+            {
+                "recipeName": "Spaghetti Carbonara",
+                "ingredients": [
+                    "Spaghetti",
+                    "Bacon",
+                    "Egg",
+                    "Parmesan Cheese",
+                    "Garlic"
+                ],
+                "cookingMethod": "1. Cook spaghetti. 2. Fry bacon and garlic. 3. Mix in egg and parmesan cheese. 4. Serve hot.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Caesar Salad",
+                "ingredients": [
+                    "Romaine Lettuce",
+                    "Croutons",
+                    "Parmesan Cheese",
+                    "Caesar Dressing",
+                    "Anchovies"
+                ],
+                "cookingMethod": "1. Toss lettuce with croutons, parmesan cheese, and anchovies. 2. Mix in Caesar dressing. 3. Serve cold.",
+                "rating": 4.1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "picture": "https://images.unsplash.com/photo-1572054466274-25b4ed6d6899?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name": "Emily Chen",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 75,
+        "likes": 8000,
+        "recipes": [
+            {
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "Spaghetti",
+                    "Ground Beef",
+                    "Tomatoes",
+                    "Onion",
+                    "Garlic"
+                ],
+                "cookingMethod": "1. Cook spaghetti. 2. Fry ground beef, onion, and garlic. 3. Add tomatoes and simmer. 4. Mix spaghetti with sauce. 5. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Chicken Caesar Salad",
+                "ingredients": [
+                    "Chicken Breast",
+                    "Romaine Lettuce",
+                    "Croutons",
+                    "Parmesan Cheese",
+                    "Caesar Dressing"
+                ],
+                "cookingMethod": "1. Grill chicken. 2. Chop lettuce and croutons. 3. Shave Parmesan cheese. 4. Mix all ingredients with dressing. 5. Serve cold.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "picture": "https://plus.unsplash.com/premium_photo-1661778156582-670d5b62a9e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name": "Sarah Johnson",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 60,
+        "likes": 6500,
+        "recipes": [
+            {
+                "recipeName": "Beef Stroganoff",
+                "ingredients": [
+                    "Beef Sirloin",
+                    "Mushrooms",
+                    "Onion",
+                    "Sour Cream",
+                    "Egg Noodles"
+                ],
+                "cookingMethod": "1. Cook egg noodles. 2. Fry beef, mushrooms, and onion. 3. Add sour cream and mix. 4. Serve beef over noodles.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Grilled Shrimp Skewers",
+                "ingredients": [
+                    "Shrimp",
+                    "Bell Pepper",
+                    "Onion",
+                    "Zucchini",
+                    "Lemon"
+                ],
+                "cookingMethod": "1. Skewer shrimp, bell pepper, onion, and zucchini. 2. Grill skewers. 3. Squeeze lemon juice over skewers. 4. Serve hot.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "picture": "https://images.unsplash.com/photo-1578367015636-5ceda70b8069?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+        "name": "Alice Lee",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 100,
+        "likes": 8500,
+        "recipes": [
+            {
+                "recipeName": "Roasted Chicken with Vegetables",
+                "ingredients": [
+                    "Chicken",
+                    "Potatoes",
+                    "Carrots",
+                    "Onion",
+                    "Garlic",
+                    "Thyme",
+                    "Olive Oil"
+                ],
+                "cookingMethod": "1. Preheat oven to 375°F. 2. Place chicken, potatoes, carrots, onion, garlic, thyme and olive oil in a baking dish. 3. Season with salt and pepper. 4. Bake for 1 hour, or until chicken is cooked through and vegetables are tender.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Spaghetti Carbonara",
+                "ingredients": [
+                    "Spaghetti",
+                    "Bacon",
+                    "Egg Yolks",
+                    "Parmesan Cheese",
+                    "Garlic"
+                ],
+                "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Cook bacon until crispy. 3. Mix egg yolks and parmesan cheese in a bowl. 4. In a pan, cook garlic until fragrant, then add cooked spaghetti, bacon, and egg yolk mixture. 5. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Beef Stroganoff",
+                "ingredients": [
+                    "Beef",
+                    "Mushrooms",
+                    "Onion",
+                    "Sour Cream",
+                    "Egg Noodles",
+                    "Beef Broth",
+                    "Flour",
+                    "Butter"
+                ],
+                "cookingMethod": "1. Cook egg noodles according to package instructions. 2. Sear beef in a pan until browned. 3. Add mushrooms and onion and cook until tender. 4. Add beef broth and flour to make a sauce. 5. Stir in sour cream and serve over cooked egg noodles.",
+                "rating": 4.5
+            }
+        ]
+    }
+]
